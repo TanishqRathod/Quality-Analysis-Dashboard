@@ -1,1 +1,3 @@
 # Quality-Analysis-Dashboard
+
+This project demonstrates how Power BI can be used to transform raw audit data into meaningful insights through interactive dashboards and visualizations. By analyzing key metrics such as Quality Score, Defects %, Errors %, and Productivity, the dashboard helps monitor overall performance across departments, locations, managers, and employees. The visualizations make it easier to identify performance trends, top performers, and areas requiring improvement. This enables managers to make data-driven decisions to improve operational quality and efficiency. Overall, the project highlights the importance of data visualization and business intelligence tools in improving organizational performance and quality management.
